@@ -7,4 +7,4 @@ Specially crafted payload will trigger a Stack Buffer Overflow in the NT Windows
 E.g. cmd.exe /c  [PAYLOAD]
 
 
-[![Watch the video](https://img.youtube.com/vi/wYYgjV-PzD8/maxresdefault.jpg)](https://www.youtube.com/watch?v=wYYgjV-PzD8)
+[![Watch the video](https://https://youtu.be/wYYgjV-PzD8)](https://www.youtube.com/watch?v=wYYgjV-PzD8)
